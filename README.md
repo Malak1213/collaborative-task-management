@@ -39,7 +39,7 @@ Ensure you have the following installed:
 ```sh
 # Clone the repository
 git clone https://github.com/Malak1213/collaborative-task-management.git
-cd task-management-system
+cd collaborative-task-management
 
 # Install dependencies
 composer install
